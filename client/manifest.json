@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16T20:44:05.467Z",
+ "version": "2026-11-16T20:46:36.993Z",
  "minecraft": "1.21.1",
  "neoforge": "21.1.266",
  "managed": [
@@ -9,6 +9,11 @@
  ],
  "server": "91.197.6.200:24638",
  "files": [
+  {
+   "path": "mods/berksforge-1.0.0.jar",
+   "sha1": "e1352bf336a1bc48b8b56f6229e8455718790d13",
+   "size": 83257
+  },
   {
    "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
    "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
