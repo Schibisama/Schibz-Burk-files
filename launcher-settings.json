@@ -1,7 +1,7 @@
 {
   "minecraft": "1.21.1",
   "neoforge": "21.1.266",
-  "server": "",
+  "server": "91.197.6.200:24638",
   "managed": [
     "mods",
     "shaderpacks",
