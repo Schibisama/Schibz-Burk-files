@@ -1,0 +1,25 @@
+{
+  "minecraft": "1.21.1",
+  "neoforge": "21.1.266",
+  "server": "",
+  "managed": [
+    "mods",
+    "shaderpacks",
+    "resourcepacks"
+  ],
+  "configOnce": true,
+  "external": [
+    {
+      "path": "mods/bookofdragons-1.4.1-1.21.1.jar",
+      "url": "https://cdn.modrinth.com/data/fJee0CPJ/versions/vMbmodRN/bookofdragons-1.4.1-1.21.1.jar",
+      "sha1": "723c867e3714827e5f82c9abb3854186e77baffa",
+      "size": 13523784
+    },
+    {
+      "path": "mods/faunaengine-1.2+1.21.1-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/94WRYNtT/versions/nJoo5qQS/faunaengine-1.2%2B1.21.1-neoforge.jar",
+      "sha1": "78cc3f3eb6d7388a4ff71aad9660646c274d99c1",
+      "size": 3736760
+    }
+  ]
+}
