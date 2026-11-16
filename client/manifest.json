@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16T20:25:33.402Z",
+ "version": "2026-11-16T20:44:05.467Z",
  "minecraft": "1.21.1",
  "neoforge": "21.1.266",
  "managed": [
@@ -10,10 +10,34 @@
  "server": "91.197.6.200:24638",
  "files": [
   {
+   "path": "mods/better-advanced-tooltips-2101.1.0-build.5.jar",
+   "sha1": "5b73537b908764f2d3fd593a0f56a8b1b034bc50",
+   "size": 37653,
+   "url": "https://cdn.modrinth.com/data/iHLDc0eo/versions/uPFbnD32/better-advanced-tooltips-2101.1.0-build.5.jar"
+  },
+  {
+   "path": "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar",
+   "sha1": "294ae397c011980623bf155f9dfce82bb81865a0",
+   "size": 22338156,
+   "url": "https://cdn.modrinth.com/data/HXF82T3G/versions/BtZKRp69/BiomesOPlenty-neoforge-1.21.1-21.1.0.14.jar"
+  },
+  {
    "path": "mods/bookofdragons-1.4.1-1.21.1.jar",
    "sha1": "723c867e3714827e5f82c9abb3854186e77baffa",
    "size": 13523784,
    "url": "https://cdn.modrinth.com/data/fJee0CPJ/versions/vMbmodRN/bookofdragons-1.4.1-1.21.1.jar"
+  },
+  {
+   "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.10.jar",
+   "sha1": "78a1b2f0b4e2b816aeffb0e6a2cc0062aa343e46",
+   "size": 309788,
+   "url": "https://cdn.modrinth.com/data/ziOp6EO8/versions/Za7PInLk/Corgilib-NeoForge-1.21.1-5.0.0.10.jar"
+  },
+  {
+   "path": "mods/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar",
+   "sha1": "4357b4d19fab818780c94f0e43dad1cc931634b2",
+   "size": 28289212,
+   "url": "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
   },
   {
    "path": "mods/faunaengine-1.2+1.21.1-neoforge.jar",
@@ -22,9 +46,57 @@
    "url": "https://cdn.modrinth.com/data/94WRYNtT/versions/nJoo5qQS/faunaengine-1.2%2B1.21.1-neoforge.jar"
   },
   {
+   "path": "mods/geckolib-neoforge-1.21.1-4.9.3.jar",
+   "sha1": "5cfe835472a5c5457ae9ac192d9d7b317454d5ac",
+   "size": 634531,
+   "url": "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar"
+  },
+  {
+   "path": "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+   "sha1": "e3d4bb80a06f619be989ab529d0cd4e33e076943",
+   "size": 90717,
+   "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+  },
+  {
+   "path": "mods/kubejs-neoforge-2101.7.2-build.381.jar",
+   "sha1": "b282ba250cdd247f319c016df02ff9e600caadb1",
+   "size": 2295092,
+   "url": "https://cdn.modrinth.com/data/umyGl7zF/versions/GDXCpKlp/kubejs-neoforge-2101.7.2-build.381.jar"
+  },
+  {
+   "path": "mods/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar",
+   "sha1": "693292b80590ea4cf3b4d3e180a6532eac71f546",
+   "size": 20493453,
+   "url": "https://cdn.modrinth.com/data/NTi7d3Xc/versions/gAxM0bHs/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.3.jar"
+  },
+  {
+   "path": "mods/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar",
+   "sha1": "634fb85dd22dea5d2d5dc358ffc776ccc4a581a7",
+   "size": 176815,
+   "url": "https://cdn.modrinth.com/data/g8NOG5OR/versions/7zqZzoiq/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.6.jar"
+  },
+  {
+   "path": "mods/rhino-2101.2.7-build.85.jar",
+   "sha1": "3c8d34c7efe9e42fc90506acbf9fc842d36f9a42",
+   "size": 882075,
+   "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/cQ4POTah/rhino-2101.2.7-build.85.jar"
+  },
+  {
    "path": "mods/schibz_burk-0.1.1.jar",
    "sha1": "cc6b5da1e2853c43e957a03056618a0c76e27bf6",
    "size": 51144
+  },
+  {
+   "path": "mods/sky_archipelago-1.4.jar",
+   "sha1": "ac462047df2c3887dc7b38b47af247c12293a11e",
+   "size": 2035000,
+   "url": "https://cdn.modrinth.com/data/sHFNUlBU/versions/XPc17YJD/sky_archipelago-1.4.jar"
+  },
+  {
+   "path": "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+   "sha1": "744394d979b422be560babf9df7a6800ede9ac5b",
+   "size": 120365,
+   "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
   }
  ]
 }
