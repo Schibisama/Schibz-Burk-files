@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16T20:46:36.993Z",
+ "version": "2026-11-16T20:48:08.950Z",
  "minecraft": "1.21.1",
  "neoforge": "21.1.266",
  "managed": [
@@ -61,6 +61,11 @@
    "sha1": "e3d4bb80a06f619be989ab529d0cd4e33e076943",
    "size": 90717,
    "url": "https://cdn.modrinth.com/data/s3dmwKy5/versions/S2TfWrZR/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
+  },
+  {
+   "path": "mods/inferno-1.7.4.3-neoforge-1.21.1.jar",
+   "sha1": "85bfa00db20524d540b8fe31f5eb6d5c1d63772d",
+   "size": 619718
   },
   {
    "path": "mods/kubejs-neoforge-2101.7.2-build.381.jar",
