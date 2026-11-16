@@ -1,5 +1,5 @@
 {
- "version": "2026-11-16T21:46:49.109Z",
+ "version": "2026-11-16T21:59:58.438Z",
  "minecraft": "1.21.1",
  "neoforge": "21.1.266",
  "managed": [
@@ -92,9 +92,9 @@
    "url": "https://cdn.modrinth.com/data/sk9knFPE/versions/cQ4POTah/rhino-2101.2.7-build.85.jar"
   },
   {
-   "path": "mods/schibz_burk-0.3.0.jar",
-   "sha1": "ce65cd899e3c6379d9f803f5f45b83d5f284a608",
-   "size": 36718
+   "path": "mods/schibz_burk-0.4.0.jar",
+   "sha1": "081dacf0c86ef1e96ed46d518d0e966ba821dee4",
+   "size": 546113
   },
   {
    "path": "mods/sky_archipelago-1.4.jar",
